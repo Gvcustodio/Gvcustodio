@@ -1,4 +1,4 @@
-## Boas vindas ao meus perfil 🎥<p align="left"><br>Meus nome é Gislaine!<br><br>-Estudante da Alura<br>-Desenvolvemento de Linguagem JavaScript HTML CSS<br>-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.<br><br>
+## Boas vindas ao meus perfil 🎥<p align="left"><br>Meus nome é Gislaine!<br><br>-Estudante de graduação em processos gerencias <br>-Desenvolvemento de Linguagem JavaScript HTML CSS<br>-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.<br><br>
 ### Você entrar em contato comigo 📫<br><br>gvcustodio@bol.com.br<br><br></p>
 
 ###
